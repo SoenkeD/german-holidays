@@ -1,0 +1,734 @@
+{
+  "Baden-Wuerttemberg": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2023"
+    },
+    {
+      "holiday": "Heilige Drei K\u00f6nige",
+      "date": "06.01.2023"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "07.04.2023"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "10.04.2023"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2023"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "18.05.2023"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "29.05.2023"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "08.06.2023"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2023"
+    },
+    {
+      "holiday": "Allerheiligen",
+      "date": "01.11.2023"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2023"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2023"
+    }
+  ],
+  "Bayern": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2023"
+    },
+    {
+      "holiday": "Heilige Drei K\u00f6nige",
+      "date": "06.01.2023"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "07.04.2023"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "10.04.2023"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2023"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "18.05.2023"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "29.05.2023"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "08.06.2023"
+    },
+    {
+      "holiday": "Mari\u00e4 Himmelfahrt",
+      "date": "15.08.2023"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2023"
+    },
+    {
+      "holiday": "Allerheiligen",
+      "date": "01.11.2023"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2023"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2023"
+    }
+  ],
+  "Berlin": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2023"
+    },
+    {
+      "holiday": "Internationaler Frauentag",
+      "date": "08.03.2023"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "07.04.2023"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "10.04.2023"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2023"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "18.05.2023"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "29.05.2023"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2023"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2023"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2023"
+    }
+  ],
+  "Brandenburg": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2023"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "07.04.2023"
+    },
+    {
+      "holiday": "Ostersonntag",
+      "date": "09.04.2023"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "10.04.2023"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2023"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "18.05.2023"
+    },
+    {
+      "holiday": "Pfingstsonntag",
+      "date": "28.05.2023"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "29.05.2023"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2023"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2023"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2023"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2023"
+    }
+  ],
+  "Bremen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2023"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "07.04.2023"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "10.04.2023"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2023"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "18.05.2023"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "29.05.2023"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2023"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2023"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2023"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2023"
+    }
+  ],
+  "Hamburg": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2023"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "07.04.2023"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "10.04.2023"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2023"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "18.05.2023"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "29.05.2023"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2023"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2023"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2023"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2023"
+    }
+  ],
+  "Hessen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2023"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "07.04.2023"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "10.04.2023"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2023"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "18.05.2023"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "29.05.2023"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "08.06.2023"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2023"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2023"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2023"
+    }
+  ],
+  "Mecklenburg-Vorpommern": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2023"
+    },
+    {
+      "holiday": "Internationaler Frauentag",
+      "date": "08.03.2023"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "07.04.2023"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "10.04.2023"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2023"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "18.05.2023"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "29.05.2023"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2023"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2023"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2023"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2023"
+    }
+  ],
+  "Niedersachsen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2023"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "07.04.2023"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "10.04.2023"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2023"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "18.05.2023"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "29.05.2023"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2023"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2023"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2023"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2023"
+    }
+  ],
+  "Nordrhein-Westfalen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2023"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "07.04.2023"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "10.04.2023"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2023"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "18.05.2023"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "29.05.2023"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "08.06.2023"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2023"
+    },
+    {
+      "holiday": "Allerheiligen",
+      "date": "01.11.2023"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2023"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2023"
+    }
+  ],
+  "Rheinland-Pfalz": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2023"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "07.04.2023"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "10.04.2023"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2023"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "18.05.2023"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "29.05.2023"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "08.06.2023"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2023"
+    },
+    {
+      "holiday": "Allerheiligen",
+      "date": "01.11.2023"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2023"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2023"
+    }
+  ],
+  "Saarland": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2023"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "07.04.2023"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "10.04.2023"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2023"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "18.05.2023"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "29.05.2023"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "08.06.2023"
+    },
+    {
+      "holiday": "Mari\u00e4 Himmelfahrt",
+      "date": "15.08.2023"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2023"
+    },
+    {
+      "holiday": "Allerheiligen",
+      "date": "01.11.2023"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2023"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2023"
+    }
+  ],
+  "Sachsen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2023"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "07.04.2023"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "10.04.2023"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2023"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "18.05.2023"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "29.05.2023"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2023"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2023"
+    },
+    {
+      "holiday": "Bu\u00df- und Bettag",
+      "date": "22.11.2023"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2023"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2023"
+    }
+  ],
+  "Sachsen-Anhalt": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2023"
+    },
+    {
+      "holiday": "Heilige Drei K\u00f6nige",
+      "date": "06.01.2023"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "07.04.2023"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "10.04.2023"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2023"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "18.05.2023"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "29.05.2023"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2023"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2023"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2023"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2023"
+    }
+  ],
+  "Schleswig-Holstein": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2023"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "07.04.2023"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "10.04.2023"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2023"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "18.05.2023"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "29.05.2023"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2023"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2023"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2023"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2023"
+    }
+  ],
+  "Thueringen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2023"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "07.04.2023"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "10.04.2023"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2023"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "18.05.2023"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "29.05.2023"
+    },
+    {
+      "holiday": "Weltkindertag",
+      "date": "20.09.2023"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2023"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2023"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2023"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2023"
+    }
+  ]
+}

@@ -1,0 +1,734 @@
+{
+  "Baden-Wuerttemberg": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2025"
+    },
+    {
+      "holiday": "Heilige Drei K\u00f6nige",
+      "date": "06.01.2025"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "18.04.2025"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "21.04.2025"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2025"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "29.05.2025"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "09.06.2025"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "19.06.2025"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2025"
+    },
+    {
+      "holiday": "Allerheiligen",
+      "date": "01.11.2025"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2025"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2025"
+    }
+  ],
+  "Bayern": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2025"
+    },
+    {
+      "holiday": "Heilige Drei K\u00f6nige",
+      "date": "06.01.2025"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "18.04.2025"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "21.04.2025"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2025"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "29.05.2025"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "09.06.2025"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "19.06.2025"
+    },
+    {
+      "holiday": "Mari\u00e4 Himmelfahrt",
+      "date": "15.08.2025"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2025"
+    },
+    {
+      "holiday": "Allerheiligen",
+      "date": "01.11.2025"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2025"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2025"
+    }
+  ],
+  "Berlin": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2025"
+    },
+    {
+      "holiday": "Internationaler Frauentag",
+      "date": "08.03.2025"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "18.04.2025"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "21.04.2025"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2025"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "29.05.2025"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "09.06.2025"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2025"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2025"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2025"
+    }
+  ],
+  "Brandenburg": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2025"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "18.04.2025"
+    },
+    {
+      "holiday": "Ostersonntag",
+      "date": "20.04.2025"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "21.04.2025"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2025"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "29.05.2025"
+    },
+    {
+      "holiday": "Pfingstsonntag",
+      "date": "08.06.2025"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "09.06.2025"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2025"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2025"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2025"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2025"
+    }
+  ],
+  "Bremen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2025"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "18.04.2025"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "21.04.2025"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2025"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "29.05.2025"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "09.06.2025"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2025"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2025"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2025"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2025"
+    }
+  ],
+  "Hamburg": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2025"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "18.04.2025"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "21.04.2025"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2025"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "29.05.2025"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "09.06.2025"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2025"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2025"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2025"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2025"
+    }
+  ],
+  "Hessen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2025"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "18.04.2025"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "21.04.2025"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2025"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "29.05.2025"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "09.06.2025"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "19.06.2025"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2025"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2025"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2025"
+    }
+  ],
+  "Mecklenburg-Vorpommern": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2025"
+    },
+    {
+      "holiday": "Internationaler Frauentag",
+      "date": "08.03.2025"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "18.04.2025"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "21.04.2025"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2025"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "29.05.2025"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "09.06.2025"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2025"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2025"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2025"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2025"
+    }
+  ],
+  "Niedersachsen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2025"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "18.04.2025"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "21.04.2025"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2025"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "29.05.2025"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "09.06.2025"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2025"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2025"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2025"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2025"
+    }
+  ],
+  "Nordrhein-Westfalen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2025"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "18.04.2025"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "21.04.2025"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2025"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "29.05.2025"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "09.06.2025"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "19.06.2025"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2025"
+    },
+    {
+      "holiday": "Allerheiligen",
+      "date": "01.11.2025"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2025"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2025"
+    }
+  ],
+  "Rheinland-Pfalz": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2025"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "18.04.2025"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "21.04.2025"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2025"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "29.05.2025"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "09.06.2025"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "19.06.2025"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2025"
+    },
+    {
+      "holiday": "Allerheiligen",
+      "date": "01.11.2025"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2025"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2025"
+    }
+  ],
+  "Saarland": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2025"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "18.04.2025"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "21.04.2025"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2025"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "29.05.2025"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "09.06.2025"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "19.06.2025"
+    },
+    {
+      "holiday": "Mari\u00e4 Himmelfahrt",
+      "date": "15.08.2025"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2025"
+    },
+    {
+      "holiday": "Allerheiligen",
+      "date": "01.11.2025"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2025"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2025"
+    }
+  ],
+  "Sachsen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2025"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "18.04.2025"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "21.04.2025"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2025"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "29.05.2025"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "09.06.2025"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2025"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2025"
+    },
+    {
+      "holiday": "Bu\u00df- und Bettag",
+      "date": "19.11.2025"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2025"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2025"
+    }
+  ],
+  "Sachsen-Anhalt": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2025"
+    },
+    {
+      "holiday": "Heilige Drei K\u00f6nige",
+      "date": "06.01.2025"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "18.04.2025"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "21.04.2025"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2025"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "29.05.2025"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "09.06.2025"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2025"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2025"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2025"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2025"
+    }
+  ],
+  "Schleswig-Holstein": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2025"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "18.04.2025"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "21.04.2025"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2025"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "29.05.2025"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "09.06.2025"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2025"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2025"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2025"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2025"
+    }
+  ],
+  "Thueringen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2025"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "18.04.2025"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "21.04.2025"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2025"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "29.05.2025"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "09.06.2025"
+    },
+    {
+      "holiday": "Weltkindertag",
+      "date": "20.09.2025"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2025"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2025"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2025"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2025"
+    }
+  ]
+}

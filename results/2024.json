@@ -1,0 +1,734 @@
+{
+  "Baden-Wuerttemberg": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2024"
+    },
+    {
+      "holiday": "Heilige Drei K\u00f6nige",
+      "date": "06.01.2024"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "29.03.2024"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "01.04.2024"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2024"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "09.05.2024"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "20.05.2024"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "30.05.2024"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2024"
+    },
+    {
+      "holiday": "Allerheiligen",
+      "date": "01.11.2024"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2024"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2024"
+    }
+  ],
+  "Bayern": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2024"
+    },
+    {
+      "holiday": "Heilige Drei K\u00f6nige",
+      "date": "06.01.2024"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "29.03.2024"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "01.04.2024"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2024"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "09.05.2024"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "20.05.2024"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "30.05.2024"
+    },
+    {
+      "holiday": "Mari\u00e4 Himmelfahrt",
+      "date": "15.08.2024"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2024"
+    },
+    {
+      "holiday": "Allerheiligen",
+      "date": "01.11.2024"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2024"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2024"
+    }
+  ],
+  "Berlin": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2024"
+    },
+    {
+      "holiday": "Internationaler Frauentag",
+      "date": "08.03.2024"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "29.03.2024"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "01.04.2024"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2024"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "09.05.2024"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "20.05.2024"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2024"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2024"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2024"
+    }
+  ],
+  "Brandenburg": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2024"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "29.03.2024"
+    },
+    {
+      "holiday": "Ostersonntag",
+      "date": "31.03.2024"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "01.04.2024"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2024"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "09.05.2024"
+    },
+    {
+      "holiday": "Pfingstsonntag",
+      "date": "19.05.2024"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "20.05.2024"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2024"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2024"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2024"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2024"
+    }
+  ],
+  "Bremen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2024"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "29.03.2024"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "01.04.2024"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2024"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "09.05.2024"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "20.05.2024"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2024"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2024"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2024"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2024"
+    }
+  ],
+  "Hamburg": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2024"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "29.03.2024"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "01.04.2024"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2024"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "09.05.2024"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "20.05.2024"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2024"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2024"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2024"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2024"
+    }
+  ],
+  "Hessen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2024"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "29.03.2024"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "01.04.2024"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2024"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "09.05.2024"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "20.05.2024"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "30.05.2024"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2024"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2024"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2024"
+    }
+  ],
+  "Mecklenburg-Vorpommern": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2024"
+    },
+    {
+      "holiday": "Internationaler Frauentag",
+      "date": "08.03.2024"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "29.03.2024"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "01.04.2024"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2024"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "09.05.2024"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "20.05.2024"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2024"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2024"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2024"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2024"
+    }
+  ],
+  "Niedersachsen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2024"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "29.03.2024"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "01.04.2024"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2024"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "09.05.2024"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "20.05.2024"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2024"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2024"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2024"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2024"
+    }
+  ],
+  "Nordrhein-Westfalen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2024"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "29.03.2024"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "01.04.2024"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2024"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "09.05.2024"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "20.05.2024"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "30.05.2024"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2024"
+    },
+    {
+      "holiday": "Allerheiligen",
+      "date": "01.11.2024"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2024"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2024"
+    }
+  ],
+  "Rheinland-Pfalz": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2024"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "29.03.2024"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "01.04.2024"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2024"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "09.05.2024"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "20.05.2024"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "30.05.2024"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2024"
+    },
+    {
+      "holiday": "Allerheiligen",
+      "date": "01.11.2024"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2024"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2024"
+    }
+  ],
+  "Saarland": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2024"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "29.03.2024"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "01.04.2024"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2024"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "09.05.2024"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "20.05.2024"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "30.05.2024"
+    },
+    {
+      "holiday": "Mari\u00e4 Himmelfahrt",
+      "date": "15.08.2024"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2024"
+    },
+    {
+      "holiday": "Allerheiligen",
+      "date": "01.11.2024"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2024"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2024"
+    }
+  ],
+  "Sachsen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2024"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "29.03.2024"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "01.04.2024"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2024"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "09.05.2024"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "20.05.2024"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2024"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2024"
+    },
+    {
+      "holiday": "Bu\u00df- und Bettag",
+      "date": "20.11.2024"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2024"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2024"
+    }
+  ],
+  "Sachsen-Anhalt": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2024"
+    },
+    {
+      "holiday": "Heilige Drei K\u00f6nige",
+      "date": "06.01.2024"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "29.03.2024"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "01.04.2024"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2024"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "09.05.2024"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "20.05.2024"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2024"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2024"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2024"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2024"
+    }
+  ],
+  "Schleswig-Holstein": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2024"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "29.03.2024"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "01.04.2024"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2024"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "09.05.2024"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "20.05.2024"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2024"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2024"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2024"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2024"
+    }
+  ],
+  "Thueringen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2024"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "29.03.2024"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "01.04.2024"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2024"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "09.05.2024"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "20.05.2024"
+    },
+    {
+      "holiday": "Weltkindertag",
+      "date": "20.09.2024"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2024"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2024"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2024"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2024"
+    }
+  ]
+}
